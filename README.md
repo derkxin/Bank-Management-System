@@ -1,4 +1,4 @@
-# C-Bank-Management-System
+# Bank-Management-System
 C++ Bank Management System
 
 
